@@ -1,0 +1,7 @@
+C:\Users\efrench\OneDrive - Abcam plc\Apprenticeship Test Exercises\Business Card\Business Card\bin\Debug\Business Card.exe.config
+C:\Users\efrench\OneDrive - Abcam plc\Apprenticeship Test Exercises\Business Card\Business Card\bin\Debug\Business Card.exe
+C:\Users\efrench\OneDrive - Abcam plc\Apprenticeship Test Exercises\Business Card\Business Card\bin\Debug\Business Card.pdb
+C:\Users\efrench\OneDrive - Abcam plc\Apprenticeship Test Exercises\Business Card\Business Card\obj\Debug\Business Card.csprojAssemblyReference.cache
+C:\Users\efrench\OneDrive - Abcam plc\Apprenticeship Test Exercises\Business Card\Business Card\obj\Debug\Business Card.csproj.CoreCompileInputs.cache
+C:\Users\efrench\OneDrive - Abcam plc\Apprenticeship Test Exercises\Business Card\Business Card\obj\Debug\Business Card.exe
+C:\Users\efrench\OneDrive - Abcam plc\Apprenticeship Test Exercises\Business Card\Business Card\obj\Debug\Business Card.pdb
